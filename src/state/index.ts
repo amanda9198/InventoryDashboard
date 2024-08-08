@@ -13,7 +13,7 @@ const initialState: InitialStateTypes = {
 }
 
 export const globalSlice = createSlice({
-    name: 'global',
+    name: "global",
     initialState,
 
     // function for if sidebar is collapsed or not, or dark or not
